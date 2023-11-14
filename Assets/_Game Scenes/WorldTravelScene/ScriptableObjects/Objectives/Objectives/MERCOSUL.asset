@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b78bf552a9833c419052ee7d18cea06, type: 3}
+  m_Name: MERCOSUL
+  m_EditorClassIdentifier: 
+  levelSelectedManager: {fileID: 11400000, guid: fffaa64ff9d9db34b98642daf69caa30,
+    type: 2}
+  <Question>k__BackingField: "O Mercosul \xE9 um acordo econ\xF4mico entre pa\xEDses
+    sul-americanos com o objetivo de melhorar a economia regional, facilitando a
+    circula\xE7\xE3o de bens, pessoas e servi\xE7os, e cooperando em investimentos,
+    meio ambiente e pol\xEDtica externa."
+  <Objective>k__BackingField: "Miss\xE3o: Entregue suprimentos para #N# #PAIS# #MEMBRO#
+    do MERCOSUL"
+  <CorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: 345728db824f0cd46b1c67c54204ad93, type: 2}
+  - {fileID: 11400000, guid: 3f33f0dc3d51ef14ca81f631f58dffd9, type: 2}
+  - {fileID: 11400000, guid: efc81e2ccd2bb3f4daa7842a62d0393d, type: 2}
+  - {fileID: 11400000, guid: f6920b2a5ab91b14f9f3324805774ac9, type: 2}
+  - {fileID: 11400000, guid: f94618fc72fd0654696290f7b5f8b487, type: 2}
+  <SuggestedIncorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: 378d8992dc23e5c46a0c4ff6c75fb448, type: 2}
+  - {fileID: 11400000, guid: 31249ecc01284a042884df1ff6314f96, type: 2}
+  - {fileID: 11400000, guid: bc720ec5fcfcd0e41a25fe9aa946d3b1, type: 2}
+  - {fileID: 11400000, guid: 45f72a5ed6f365b4a8ab3630004fd662, type: 2}
+  useDebugAmount: 0

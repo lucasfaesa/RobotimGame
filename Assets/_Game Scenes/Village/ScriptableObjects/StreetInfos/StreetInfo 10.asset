@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8582ab083b851d840bc990d035bb7231, type: 3}
+  m_Name: StreetInfo 10
+  m_EditorClassIdentifier: 
+  <StreetName>k__BackingField: 
+  parallelStreets:
+  - {fileID: 11400000, guid: 72cf6020f856dba4ab31fde76c5fad57, type: 2}
+  concurrentStreets:
+  - {fileID: 11400000, guid: 85244413d36dce8418a9373d2c52a4aa, type: 2}

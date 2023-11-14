@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff82fdeb43f1284d902ce041ae32205, type: 3}
+  m_Name: BacteriaQuestions
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField:
+  - "Qual das seguintes \xE9 uma forma de vida microbiana comum?"
+  - "Qual \xE9 o tipo de micro-organismo que \xE9 unicelular e geralmente encontrado
+    em solos, \xE1gua e superf\xEDcies?"
+  - "Qual \xE9 o tipo de micro-organismo que pode ser cultivado em meios de cultura
+    para fins industriais ou m\xE9dicos?"
+  - "Qual \xE9 o tipo de micro-organismo que pode ser utilizado na produ\xE7\xE3o
+    de alimentos, medicamentos e biotecnologia?"
+  - "Qual \xE9 o tipo de micro-organismo que possui uma c\xE9lula simples sem n\xFAcleo
+    definido?"
+  <ResearchTypeCorrectAnswer>k__BackingField: {fileID: 11400000, guid: 220da0bcba126d542ace58541681e69f,
+    type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff82fdeb43f1284d902ce041ae32205, type: 3}
+  m_Name: VaccineQuestions
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField:
+  - "Qual \xE9 o produto feito a partir de v\xEDrus enfraquecidos e \xE9 injetado
+    no corpo para estimular a produ\xE7\xE3o de anticorpos?"
+  - "Qual \xE9 a forma de preven\xE7\xE3o que utiliza uma vers\xE3o inativada ou
+    enfraquecida do v\xEDrus ou bact\xE9ria que causa a doen\xE7a?"
+  - "Qual \xE9 a estrat\xE9gia preventiva que pode ajudar a proteger contra doen\xE7as
+    como a gripe, sarampo e rub\xE9ola?"
+  - "Qual \xE9 a forma de preven\xE7\xE3o que pode ser administrada a rec\xE9m-nascidos,
+    crian\xE7as, adultos e idosos?"
+  <ResearchTypeCorrectAnswer>k__BackingField: {fileID: 11400000, guid: 544593af66f1426438a8efeaec1fc4d7,
+    type: 2}

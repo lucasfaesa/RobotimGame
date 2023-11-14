@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08deb77b5fb19564cb10d298385a1d5c, type: 3}
+  m_Name: VillageNpcData 12
+  m_EditorClassIdentifier: 
+  questManager: {fileID: 11400000, guid: 0a9e3a5929e9f3b459b8e7927d7b2453, type: 2}
+  npcId: 11
+  npcDialogData: {fileID: 11400000, guid: a8ccfff624e44ec4aa76b0ed19322660, type: 2}
+  villageNpcType: 2
+  QuestType: 0
+  npcStreetInfo: {fileID: 11400000, guid: d7ba5cfce3fcd6a49bed155ab6e4485b, type: 2}
+  npcLocation: {x: -77.100006, y: -9.2, z: 7.4900093}

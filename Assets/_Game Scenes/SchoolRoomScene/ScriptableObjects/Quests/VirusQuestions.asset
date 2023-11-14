@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff82fdeb43f1284d902ce041ae32205, type: 3}
+  m_Name: VirusQuestions
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField:
+  - "Qual tipo de forma de vida \xE9 capaz de se replicar apenas dentro das c\xE9lulas
+    hospedeiras?"
+  - "Qual tipo de forma de vida \xE9 transmitido atrav\xE9s de got\xEDculas a\xE9reas
+    ou contato pessoal?"
+  - Qual tipo de forma de vida pode ser combatido por vacinas e medicamentos antivirais?
+  - "Qual tipo de forma de vida \xE9 respons\xE1vel por algumas doen\xE7as comuns,
+    como resfriados e gripe?"
+  - "Qual tipo de forma de vida \xE9 respons\xE1vel por algumas doen\xE7as comuns,
+    como resfriados e gripe?"
+  - "Qual \xE9 a forma de vida que n\xE3o possui capacidade de se mover e se reproduzir
+    sozinha?"
+  <ResearchTypeCorrectAnswer>k__BackingField: {fileID: 11400000, guid: 64edc143f7a55aa4d94c649c3364d24f,
+    type: 2}

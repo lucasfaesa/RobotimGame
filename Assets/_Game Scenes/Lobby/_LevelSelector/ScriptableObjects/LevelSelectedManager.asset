@@ -1,0 +1,179 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559a9d68b1cb23e4494e6bb25b1f2982, type: 3}
+  m_Name: LevelSelectedManager
+  m_EditorClassIdentifier: 
+  <PlayerData>k__BackingField: {fileID: 11400000, guid: ba618c7779f45ef488d1de8cdba64cb7,
+    type: 2}
+  useGuestModeSelectedLevelInfos: 1
+  currentLevelId: 0
+  guestModeLevels:
+  - id: 0
+    subjectThemeId: 1
+    subjectThemeName: Destrua os Meteoros
+    levelCode: mat001
+    subjectId: 1
+    difficulty: 1
+    midScoreThreshold: 80
+    highScoreThreshold: 105
+  - id: 1
+    subjectThemeId: 1
+    subjectThemeName: Destrua os Meteoros
+    levelCode: mat001
+    subjectId: 1
+    difficulty: 5
+    midScoreThreshold: 80
+    highScoreThreshold: 120
+  - id: 2
+    subjectThemeId: 1
+    subjectThemeName: Destrua os Meteoros
+    levelCode: mat001
+    subjectId: 1
+    difficulty: 10
+    midScoreThreshold: 80
+    highScoreThreshold: 140
+  - id: 3
+    subjectThemeId: 2
+    subjectThemeName: "Rob\xF4s precisam de ajuda"
+    levelCode: mat002
+    subjectId: 1
+    difficulty: 1
+    midScoreThreshold: 150
+    highScoreThreshold: 175
+  - id: 4
+    subjectThemeId: 3
+    subjectThemeName: Corrida de Naves
+    levelCode: spaceship
+    subjectId: 1
+    difficulty: -1
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 5
+    subjectThemeId: 4
+    subjectThemeName: Demanda de Suprimentos
+    levelCode: geo001
+    subjectId: 2
+    difficulty: 1
+    midScoreThreshold: 50
+    highScoreThreshold: 100
+  - id: 6
+    subjectThemeId: 4
+    subjectThemeName: Demanda de Suprimentos
+    levelCode: geo001
+    subjectId: 2
+    difficulty: 2
+    midScoreThreshold: 100
+    highScoreThreshold: 150
+  - id: 7
+    subjectThemeId: 4
+    subjectThemeName: Demanda de Suprimentos
+    levelCode: geo001
+    subjectId: 2
+    difficulty: 3
+    midScoreThreshold: 150
+    highScoreThreshold: 200
+  - id: 8
+    subjectThemeId: 4
+    subjectThemeName: Demanda de Suprimentos
+    levelCode: geo001
+    subjectId: 2
+    difficulty: 4
+    midScoreThreshold: 250
+    highScoreThreshold: 300
+  - id: 9
+    subjectThemeId: 4
+    subjectThemeName: Demanda de Suprimentos
+    levelCode: geo001
+    subjectId: 2
+    difficulty: 5
+    midScoreThreshold: 350
+    highScoreThreshold: 400
+  - id: 10
+    subjectThemeId: 5
+    subjectThemeName: Corrida de Naves
+    levelCode: spaceship
+    subjectId: 2
+    difficulty: -1
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 11
+    subjectThemeId: 6
+    subjectThemeName: Pesquisa com Rob
+    levelCode: cie001
+    subjectId: 3
+    difficulty: 1
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 12
+    subjectThemeId: 6
+    subjectThemeName: Pesquisa com Rob
+    levelCode: cie001
+    subjectId: 3
+    difficulty: 2
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 13
+    subjectThemeId: 6
+    subjectThemeName: Pesquisa com Rob
+    levelCode: cie001
+    subjectId: 3
+    difficulty: 3
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 14
+    subjectThemeId: 6
+    subjectThemeName: Pesquisa com Rob
+    levelCode: cie001
+    subjectId: 3
+    difficulty: 4
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 15
+    subjectThemeId: 8
+    subjectThemeName: Corrida de Naves
+    levelCode: spaceship
+    subjectId: 3
+    difficulty: -1
+    midScoreThreshold: 98
+    highScoreThreshold: 120
+  - id: 16
+    subjectThemeId: 7
+    subjectThemeName: "Restaura\xE7\xE3o Ambiental"
+    levelCode: amb001
+    subjectId: 4
+    difficulty: 1
+    midScoreThreshold: 98
+    highScoreThreshold: 100
+  - id: 15
+    subjectThemeId: 7
+    subjectThemeName: "Restaura\xE7\xE3o Ambiental"
+    levelCode: amb001
+    subjectId: 4
+    difficulty: 2
+    midScoreThreshold: 98
+    highScoreThreshold: 100
+  - id: 15
+    subjectThemeId: 7
+    subjectThemeName: "Restaura\xE7\xE3o Ambiental"
+    levelCode: amb001
+    subjectId: 4
+    difficulty: 3
+    midScoreThreshold: 98
+    highScoreThreshold: 100
+  - id: 15
+    subjectThemeId: 7
+    subjectThemeName: "Restaura\xE7\xE3o Ambiental"
+    levelCode: amb001
+    subjectId: 4
+    difficulty: 4
+    midScoreThreshold: 98
+    highScoreThreshold: 100

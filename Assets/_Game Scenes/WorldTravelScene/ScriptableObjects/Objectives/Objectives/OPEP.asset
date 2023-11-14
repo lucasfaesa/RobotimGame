@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b78bf552a9833c419052ee7d18cea06, type: 3}
+  m_Name: OPEP
+  m_EditorClassIdentifier: 
+  levelSelectedManager: {fileID: 11400000, guid: fffaa64ff9d9db34b98642daf69caa30,
+    type: 2}
+  <Question>k__BackingField: "A OPEP (Organiza\xE7\xE3o dos Pa\xEDses Exportadores
+    de Petr\xF3leo) regula a produ\xE7\xE3o de petr\xF3leo e busca manter pre\xE7os
+    est\xE1veis para evitar varia\xE7\xF5es excessivas, com o objetivo de garantir
+    estabilidade financeira para seus pa\xEDses membros."
+  <Objective>k__BackingField: "Miss\xE3o: Entregue suprimentos para #N# #PAIS# #MEMBRO#
+    da OPEP"
+  <CorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: f94618fc72fd0654696290f7b5f8b487, type: 2}
+  - {fileID: 11400000, guid: ab7ae7892c75ff849b22683fcb7ed0ff, type: 2}
+  - {fileID: 11400000, guid: 60e8c8513df2c404aa945397cf684546, type: 2}
+  - {fileID: 11400000, guid: f91f47c720287564693bc2d1f59a53c5, type: 2}
+  - {fileID: 11400000, guid: 99248fa17d8269546be2d7ad15b0588e, type: 2}
+  <SuggestedIncorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: 523f0e9e6be00af41a398ab53c88bd2f, type: 2}
+  useDebugAmount: 0

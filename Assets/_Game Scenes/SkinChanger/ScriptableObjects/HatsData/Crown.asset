@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 32
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b9c8a65325b7da4dab80a9aae4721c7, type: 3}
+  m_Name: Crown
+  m_EditorClassIdentifier: 
+  <HatName>k__BackingField: Coroa
+  <HatValue>k__BackingField: 500
+  <HatEquipped>k__BackingField: 0
+  hatPrefab: {fileID: 5490550888437191322, guid: 394488d10cfe7534d96e014bcd038638,
+    type: 3}

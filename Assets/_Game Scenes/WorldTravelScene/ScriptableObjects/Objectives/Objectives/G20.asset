@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b78bf552a9833c419052ee7d18cea06, type: 3}
+  m_Name: G20
+  m_EditorClassIdentifier: 
+  levelSelectedManager: {fileID: 11400000, guid: fffaa64ff9d9db34b98642daf69caa30,
+    type: 2}
+  <Question>k__BackingField: "O G20 \xE9 um grupo de pa\xEDses que se encontram para
+    discutir quest\xF5es financeiras globais, com o objetivo de incluir pa\xEDses
+    emergentes nessas discuss\xF5es."
+  <Objective>k__BackingField: "Miss\xE3o: Entregue suprimentos para #N# #PAIS# #MEMBRO#
+    do G20"
+  <CorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: 8340c5c7e87159e4081f19c913062416, type: 2}
+  - {fileID: 11400000, guid: 3f33f0dc3d51ef14ca81f631f58dffd9, type: 2}
+  - {fileID: 11400000, guid: 345728db824f0cd46b1c67c54204ad93, type: 2}
+  - {fileID: 11400000, guid: 80fc9281618f1e646823d0a8418ddce6, type: 2}
+  - {fileID: 11400000, guid: 775aa7e7429bc6348af0515e5c207f81, type: 2}
+  - {fileID: 11400000, guid: ae7ba8f122e68db469642b926782d002, type: 2}
+  - {fileID: 11400000, guid: 2d70585f4328fc644a0d8172c9d589a8, type: 2}
+  - {fileID: 11400000, guid: a51f069dcf78cdf459756471f3d01f0f, type: 2}
+  - {fileID: 11400000, guid: dd81193efd7cdff44880931c41dcb760, type: 2}
+  - {fileID: 11400000, guid: 9a1fe55062e2c2840accda3042b96801, type: 2}
+  - {fileID: 11400000, guid: 8f7f7ac83bdae2047b3dacbc0f81cb65, type: 2}
+  - {fileID: 11400000, guid: 523f0e9e6be00af41a398ab53c88bd2f, type: 2}
+  - {fileID: 11400000, guid: 848cab7967458bf43b84d8fa51a62aad, type: 2}
+  - {fileID: 11400000, guid: eeb4bd9f2b697dd4080b1a9039f0dc7b, type: 2}
+  - {fileID: 11400000, guid: b27f328290991a342868db726d3983cb, type: 2}
+  - {fileID: 11400000, guid: f65d7930918d6814e9194277ab362cda, type: 2}
+  <SuggestedIncorrectCountries>k__BackingField: []
+  useDebugAmount: 0

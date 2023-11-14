@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d75ae4593e87b746963a5ab0cb3bdca, type: 3}
+  m_Name: DefaultQuestions
+  m_EditorClassIdentifier: 
+  <DefaultQuestions>k__BackingField:
+  - <SubjectId>k__BackingField: 3
+    <Questions>k__BackingField:
+    - <QuestionTitle>k__BackingField: "Retas paralelas s\xE3o:"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Duas retas que n\xE3o se encontram"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: Duas retas que se cruzam
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "O encontro de dois v\xE9rtices"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Todas as alternativas
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Retas concorrentes s\xE3o:"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Duas retas que n\xE3o se encontram"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Duas retas que se cruzam
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: O encontro de arestas
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Todas as alternativas
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Pode ser considerado um v\xE9rtice:"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: O encontro de duas ou mais arestas
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Tr\xEAs retas paralelas"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Um modelo 3D avan\xE7ado"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Todas as alternativas
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: 'Pode ser considerado uma aresta:'
+      <QuestionTimeLimit>k__BackingField: 35
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Segmento de reta que liga dois v\xE9rtices"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Ponto \xFAnico no espa\xE7o"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "O encontro de 3 ou mais v\xE9rtices"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Todas as alternativas
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Vivemos em um mundo cercado de formas geom\xE9tricas
+        que podem ser classificadas como figuras planas e figuras espaciais. Das
+        alternativas a seguir, marque aquela que corresponde a uma figura espacial."
+      <QuestionTimeLimit>k__BackingField: 40
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Ret\xE2ngulo"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "C\xEDrculo"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Paralelogramo
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Cubo
+        <IsCorrectAnswer>k__BackingField: 1
+    - <QuestionTitle>k__BackingField: "Quais das alternativas abaixo s\xE3o consideradas
+        exemplos de objetos que possui a forma de uma reta?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: Mesa e cadeira.
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "R\xE9gua e trena"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Livro e l\xE1pis"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Celular e caneta
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Em rela\xE7\xE3o ao Ponto \xE9 correto afirmar
+        que ele:"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "N\xE3o possui dimens\xF5es."
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "\xC9 imaginado sem espessura."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "N\xE3o tem come\xE7o nem fim."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "\xC9 imposs\xEDvel desenh\xE1-lo no papel."
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: 'Um tampo de uma mesa pode ser considerado:'
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: Um plano.
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: Um ponto.
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Um circulo.
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Uma reta.
+        <IsCorrectAnswer>k__BackingField: 0
+  - <SubjectId>k__BackingField: 5
+    <Questions>k__BackingField:
+    - <QuestionTitle>k__BackingField: "Qual \xE9 o significado da sigla OTAN?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Organiza\xE7\xE3o do Tratado do Atl\xE2ntico
+          Norte"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Associa\xE7\xE3o Nacional de Organiza\xE7\xF5es
+          Comerciais"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Nova Organiza\xE7\xE3o do Tratado Americano"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Alian\xE7a Nacional de Territ\xF3rios e Organiza\xE7\xF5es"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 o objetivo principal da OPEP?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Coordenar pol\xEDticas entre pa\xEDses produtores
+          de petr\xF3leo"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Promover a coopera\xE7\xE3o econ\xF4mica
+          e o desenvolvimento sustent\xE1vel"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Promover a integra\xE7\xE3o econ\xF4mica
+          regional"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Promover o com\xE9rcio e investimento entre
+          os pa\xEDses membros"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 o significado da sigla MERCOSUL?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Coaliz\xE3o de Investimento e Com\xE9rcio
+          Sulista"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Associa\xE7\xE3o Comercial Sul-Americana"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Mercado Comum do Sul
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Uni\xE3o das Na\xE7\xF5es Sul-Americanas"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual dos seguintes grupos \xE9 composto pelas
+        maiores economias do mundo?"
+      <QuestionTimeLimit>k__BackingField: 35
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: G20
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: BRICS
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: APEC
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: ASEAN
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 o objetivo principal da Uni\xE3o
+        Europeia?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Promover a integra\xE7\xE3o econ\xF4mica
+          dos pa\xEDses membros"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Promover a coopera\xE7\xE3o econ\xF4mica
+          das Am\xE9ricas"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Promover o com\xE9rcio e investimento entre
+          os pa\xEDses do continente africano"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Coordenar pol\xEDticas"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual dos seguintes grupos \xE9 composto por
+        pa\xEDses da regi\xE3o \xC1sia-Pac\xEDfico?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: APEC
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Uni\xE3o Europeia (UE)"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: MERCOSUL
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: NAFTA
+        <IsCorrectAnswer>k__BackingField: 0
+  - <SubjectId>k__BackingField: 7
+    <Questions>k__BackingField:
+    - <QuestionTitle>k__BackingField: "Qual \xE9 a medida de preven\xE7\xE3o recomendada
+        para evitar a contamina\xE7\xE3o por alimentos?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: Cozinhar bem os alimentos
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: Tomar banho diariamente
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Isolamento social
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Uso de m\xE1scara"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual a principal fun\xE7\xE3o dos v\xEDrus?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: Introduzir novas enzimas no corpo humano
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Inibir o sistema imunol\xF3gico do hospedeiro"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Romper a barreira intestinal do hospedeiro
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Invadir c\xE9lulas hospedeiras e se replicar,
+          causando infec\xE7\xF5es"
+        <IsCorrectAnswer>k__BackingField: 1
+    - <QuestionTitle>k__BackingField: "O que \xE9 um soro?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Um l\xEDquido amarelado, transparente e est\xE9ril
+          utilizado para diluir medicamentos."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Um l\xEDquido utilizado para limpar feridas
+          e reduzir a chance de infec\xE7\xE3o."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Um l\xEDquido produzido pelo organismo para
+          combater infec\xE7\xF5es."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Um produto utilizado para fornecer anticorpos
+          espec\xEDficos para uma doen\xE7a."
+        <IsCorrectAnswer>k__BackingField: 1
+    - <QuestionTitle>k__BackingField: "Qual a forma de transmiss\xE3o mais comum
+        da bact\xE9ria respons\xE1vel pela pneumonia?"
+      <QuestionTimeLimit>k__BackingField: 35
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Transmiss\xE3o por consumo de alimentos contaminados."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Transmiss\xE3o atrav\xE9s do ar, por meio
+          de got\xEDculas expelidas ao tossir ou espirrar."
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Transmiss\xE3o por meio de picadas de insetos
+          infectados."
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Transmiss\xE3o atrav\xE9s do contato com
+          objetos contaminados, como ma\xE7anetas e corrim\xE3os."
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 o principal objetivo da vacina\xE7\xE3o?"
+      <QuestionTimeLimit>k__BackingField: 40
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Prevenir doen\xE7as infecciosas"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Tratar doen\xE7as infecciosas"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Causar doen\xE7as infecciosas"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Nenhuma das op\xE7\xF5es"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 a medida de preven\xE7\xE3o recomendada
+        para evitar a prolifera\xE7\xE3o do mosquito Aedes aegypti, transmissor da
+        dengue, zika e chikungunya?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Evitar acumular \xE1gua parada em recipientes"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: Usar repelentes de insetos
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Cobrir a pele com roupas compridas
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Nenhuma das op\xE7\xF5es"
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 a medida de preven\xE7\xE3o recomendada
+        para evitar a propaga\xE7\xE3o de doen\xE7as por meio de espirros e tosse?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Uso de m\xE1scaras"
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: "Higieniza\xE7\xE3o das m\xE3os"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Exerc\xEDcios f\xEDsicos"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Descartar adequadamente materiais perfurocortantes
+        <IsCorrectAnswer>k__BackingField: 0
+    - <QuestionTitle>k__BackingField: "Qual \xE9 a medida de preven\xE7\xE3o recomendada
+        para evitar a transmiss\xE3o de doen\xE7as por meio do sangue?"
+      <QuestionTimeLimit>k__BackingField: 30
+      <QuestionAnswers>k__BackingField:
+      - <AnswerString>k__BackingField: "Higieniza\xE7\xE3o das m\xE3os"
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: Descartar adequadamente materiais perfurocortantes
+        <IsCorrectAnswer>k__BackingField: 1
+      - <AnswerString>k__BackingField: Tomar banho diariamente
+        <IsCorrectAnswer>k__BackingField: 0
+      - <AnswerString>k__BackingField: "Uso de m\xE1scaras"
+        <IsCorrectAnswer>k__BackingField: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b78bf552a9833c419052ee7d18cea06, type: 3}
+  m_Name: EU
+  m_EditorClassIdentifier: 
+  levelSelectedManager: {fileID: 11400000, guid: fffaa64ff9d9db34b98642daf69caa30,
+    type: 2}
+  <Question>k__BackingField: "A Uni\xE3o Europeia \xE9 uma organiza\xE7\xE3o pol\xEDtica
+    e econ\xF4mica com 27 pa\xEDses europeus. Seu objetivo \xE9 promover a paz, estabilidade
+    e prosperidade na Europa, integrando economicamente e politicamente seus membros."
+  <Objective>k__BackingField: "Miss\xE3o: Entregue suprimentos para #N# #PAIS# #MEMBRO#
+    da Uni\xE3o Europeia"
+  <CorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: ae7ba8f122e68db469642b926782d002, type: 2}
+  - {fileID: 11400000, guid: 2d70585f4328fc644a0d8172c9d589a8, type: 2}
+  - {fileID: 11400000, guid: dd81193efd7cdff44880931c41dcb760, type: 2}
+  - {fileID: 11400000, guid: b27f328290991a342868db726d3983cb, type: 2}
+  - {fileID: 11400000, guid: 6caa161256e94b94abe92fc364b5effa, type: 2}
+  <SuggestedIncorrectCountries>k__BackingField:
+  - {fileID: 11400000, guid: f65d7930918d6814e9194277ab362cda, type: 2}
+  useDebugAmount: 0

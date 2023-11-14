@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5996738742450824589
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6147088330185163237, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_text
+      value: "Tente ajudar concluir sua miss\xE3o o mais r\xE1pido poss\xEDvel para
+        pontuar mais. [Dica: use o mapa para se guiar pelas ruas]"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088330233739862, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_text
+      value: "Interaja com o rob\xF4 e descubra que tipo de ajuda ele precisa"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088330931481405, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509875, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Name
+      value: TutorialVillage Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1010.876
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 964.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331226509876, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331285931854, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088331624919367, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_text
+      value: "Siga a seta para encontrar o rob\xF4 que precisa de ajuda"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088332196187863, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147088332247247050, guid: 614734aaeebb3714e9763a4b553f9206,
+        type: 3}
+      propertyPath: m_text
+      value: "Ajude os rob\xF4s da vila!"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 614734aaeebb3714e9763a4b553f9206, type: 3}

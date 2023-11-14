@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ff82fdeb43f1284d902ce041ae32205, type: 3}
+  m_Name: ProtozoaQuestions
+  m_EditorClassIdentifier: 
+  <Description>k__BackingField:
+  - "Qual \xE9 a forma de vida unicelular que pode ser classificada como heter\xF3trofa
+    ou aut\xF3trofa?"
+  - "Qual \xE9 a forma de vida unicelular que se move usando flagelos ou pseud\xF3podes?"
+  - "Qual \xE9 a forma de vida unicelular que \xE9 comumente encontrada em ambientes
+    aqu\xE1ticos?"
+  <ResearchTypeCorrectAnswer>k__BackingField: {fileID: 11400000, guid: 04b4fed3f68811c4a9ed4d7500721ae5,
+    type: 2}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcb8e8d2b3b8ca84ca653fab207f5172, type: 3}
+  m_Name: SchoolRoomContext
+  m_EditorClassIdentifier: 
+  <SubjectThemeId>k__BackingField: 6
+  <SceneName>k__BackingField: SchoolRoom
+  <LevelName>k__BackingField: Pesquisa com Rob
+  <ContextImagePreview>k__BackingField: {fileID: 21300000, guid: c4f62cc2efd3434469ce141c8ac682fa,
+    type: 3}
+  <LoadingImagePreview>k__BackingField: {fileID: 21300000, guid: 6f5522e77c184d447850d1fa08e0aa6e,
+    type: 3}
